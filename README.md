@@ -26,5 +26,4 @@ PCA visualization demonstrated clear separation between benign and malignant sam
 Identified which features contribute most to diagnostic variance.
 
 # Author
-Developed by Gresa Hisa (@gresium) — AI & Cybersecurity Engineer | AI & Machine Learning Specialist
-GitHub: github.com/gresium
+Developed by Gresa Hisa — AI & Cybersecurity Engineer 
